@@ -1,2 +1,0 @@
-# LabUSO
-array-sorting-algorithms
